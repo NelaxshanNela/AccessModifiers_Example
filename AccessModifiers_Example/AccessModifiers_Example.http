@@ -1,0 +1,6 @@
+@AccessModifiers_Example_HostAddress = http://localhost:5272
+
+GET {{AccessModifiers_Example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
